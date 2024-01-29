@@ -1,2 +1,5 @@
-package jdbc;public class main {
+package jdbc;
+
+public class main {
+
 }
