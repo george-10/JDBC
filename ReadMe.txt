@@ -6,3 +6,4 @@
 6-Je sauvegarde ma commande dans un string.
 7-Enfin j'utilise executeUpdate() pour executer la requete SQL.
 8-Dans le cas de le requete "Select" on utilise l'objet resultSet pour sauvegarder la reponse de la requete et ainsi pour afficher toutes les rangés obtenues.
+9-Pour finir je ferme la connexion avec la base de données.
